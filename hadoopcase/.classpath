@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.6"/>
+	<classpathentry kind="lib" path="D:/软件包/hadoop课程全部软件(传智)/hadoop-1.1.2/hadoop-ant-1.1.2.jar"/>
+	<classpathentry kind="lib" path="D:/软件包/hadoop课程全部软件(传智)/hadoop-1.1.2/hadoop-client-1.1.2.jar"/>
+	<classpathentry kind="lib" path="D:/软件包/hadoop课程全部软件(传智)/hadoop-1.1.2/hadoop-core-1.1.2.jar" sourcepath="/HadoopSrc"/>
+	<classpathentry kind="lib" path="D:/软件包/hadoop课程全部软件(传智)/hadoop-1.1.2/hadoop-examples-1.1.2.jar"/>
+	<classpathentry kind="lib" path="D:/软件包/hadoop课程全部软件(传智)/hadoop-1.1.2/hadoop-minicluster-1.1.2.jar"/>
+	<classpathentry kind="lib" path="D:/软件包/hadoop课程全部软件(传智)/hadoop-1.1.2/hadoop-test-1.1.2.jar"/>
+	<classpathentry kind="lib" path="D:/软件包/hadoop课程全部软件(传智)/hadoop-1.1.2/hadoop-tools-1.1.2.jar"/>
+	<classpathentry kind="lib" path="A:/android_work/workspace/hadoopcase/src/resources"/>
+	<classpathentry kind="lib" path="E:/各种项目比赛资料整合/毕业设计/mahout-0.8/mahout-core-0.8.jar"/>
+	<classpathentry kind="lib" path="E:/各种项目比赛资料整合/毕业设计/mahout-0.8/mahout-core-0.8-job.jar"/>
+	<classpathentry kind="lib" path="E:/各种项目比赛资料整合/毕业设计/mahout-0.8/mahout-examples-0.8.jar"/>
+	<classpathentry kind="lib" path="E:/各种项目比赛资料整合/毕业设计/mahout-0.8/mahout-examples-0.8-job.jar"/>
+	<classpathentry kind="lib" path="E:/各种项目比赛资料整合/毕业设计/mahout-0.8/mahout-integration-0.8.jar"/>
+	<classpathentry kind="lib" path="E:/各种项目比赛资料整合/毕业设计/mahout-0.8/mahout-math-0.8.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
