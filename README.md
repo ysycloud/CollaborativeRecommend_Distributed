@@ -1,6 +1,6 @@
 # CollaborativeRecommed_Distribution
 
-## As one of the most successful approaches to building recommender systems, 
+# As one of the most successful approaches to building recommender systems, 
 Collaborative Filtering (CF) uses the known preferences of a group of users 
 to make recommendations and predictions of the unknown preferences for other users. 
 It presents two main kinds of CF techniques: user-based and item-based. However, 
@@ -10,7 +10,7 @@ due to its limited processing ability and poor scalability. The main purpose of 
 thesis is to implement two kinds of CF algorithms based on MapReduce programming 
 framework to improve the efficiency of traditional CF algorithms.
 
-## The designing section of this thesis analyzes CF algorithm, and implements 
+# The designing section of this thesis analyzes CF algorithm, and implements 
 the parallelization for calculating the similarity and the matrix multiplication 
 operation based on MapReduce. In comparison with the traditional serial algorithm, 
 the calculation of the similarity has shown significant performance advantages. 
